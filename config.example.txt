@@ -1,0 +1,2 @@
+source = "path/to/file"
+output = "destination/master/folder"
